@@ -19,9 +19,3 @@ PlateSight is an automatic number plate recognition (ANPR) system designed to de
 - EasyOCR
 - TensorFlow (for machine learning models)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/platesight.git
